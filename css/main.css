@@ -8,7 +8,7 @@ section{
     background-color: #063158;
     margin: 10px;
     color: rgb(123, 201, 247);
-    height: fit-content;
+    height: 200px;
 }
 section>h2 {
     float: right;
@@ -20,7 +20,7 @@ section>h2 {
     font-style: Times;
     font-size: 22px;
     font-weight: bold;
-    height: 36px;
+    height: fit-content;
     padding-top: 10px;
 }
 
