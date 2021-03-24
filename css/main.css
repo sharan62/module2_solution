@@ -8,7 +8,7 @@ section{
     background-color: #063158;
     margin: 10px;
     color: rgb(123, 201, 247);
-    height: 100px;
+    height: fit-content;
 }
 section>h2 {
     float: right;
