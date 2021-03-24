@@ -4,11 +4,16 @@
 } 
 
 section{ 
-    border: 1px solid rgb(235, 229, 229);
-    background-color: #063158;
-    margin: 10px;
+    
+    background-color: #041a3b;
+    margin-left: 10px;
     color: rgb(123, 201, 247);
     height: 200px;
+    margin-right: 10px;
+    
+    
+   
+   
 }
 section>h2 {
     float: right;
@@ -30,15 +35,15 @@ section>p {
 }
 
 body {
-    background-color: rgba(2, 10, 15, 0.774);
+    background-color: rgba(240, 243, 245, 0.774);
 }
 
     h1{ margin-bottom: 15px;
         text-align: center;
        
         font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        color: rgb(93, 158, 196);
-        border: black;
+        color: rgb(14, 65, 95);
+        
         padding-top: 15px;
         width: 100%;}
         .row{ width: 100%; 
